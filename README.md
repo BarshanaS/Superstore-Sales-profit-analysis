@@ -37,5 +37,9 @@ An Excel-based sales and profit analysis project created using the Superstore da
 - Sales and profit analysis
 - Achievement tracking
 
+- ## Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](Dashboard.png)
+
 ## Purpose
 This project was created to practise Excel-based data cleaning, analysis, reporting, visualization, and dashboard creation using a real-world-style sales dataset.
